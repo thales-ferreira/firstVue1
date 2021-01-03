@@ -1,2 +1,2 @@
-# firstVue1
+# firstVue
 Created with CodeSandbox
